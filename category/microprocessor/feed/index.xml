@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Microprocessor Archives - Tahtit</title>
+	<atom:link href="https://acceldib.github.io/my_test/category/microprocessor/feed/" rel="self" type="application/rss+xml" />
+	<link>https://acceldib.github.io/my_test/category/microprocessor/</link>
+	<description>Building a smarter future, together</description>
+	<lastBuildDate>Tue, 21 Feb 2023 11:41:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://acceldib.github.io/my_test/wp-content/uploads/2023/02/1-150x150.png</url>
+	<title>Microprocessor Archives - Tahtit</title>
+	<link>https://acceldib.github.io/my_test/category/microprocessor/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tahtit Academy</title>
+		<link>https://acceldib.github.io/my_test/2023/02/21/tahtit-academy/</link>
+					<comments>https://acceldib.github.io/my_test/2023/02/21/tahtit-academy/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 21 Feb 2023 11:40:35 +0000</pubDate>
+				<category><![CDATA[Microprocessor]]></category>
+		<category><![CDATA[PCB designing]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Website Designing]]></category>
+		<guid isPermaLink="false">https://acceldib.github.io/my_test/?p=1672</guid>
+
+					<description><![CDATA[<p>Tahtit Academy</p>
+<p>The post <a rel="nofollow" href="https://acceldib.github.io/my_test/2023/02/21/tahtit-academy/">Tahtit Academy</a> appeared first on <a rel="nofollow" href="https://acceldib.github.io/my_test">Tahtit</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Tahtit Academy</p>
+<p>The post <a rel="nofollow" href="https://acceldib.github.io/my_test/2023/02/21/tahtit-academy/">Tahtit Academy</a> appeared first on <a rel="nofollow" href="https://acceldib.github.io/my_test">Tahtit</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://acceldib.github.io/my_test/2023/02/21/tahtit-academy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Test</title>
+		<link>https://acceldib.github.io/my_test/2023/02/21/test/</link>
+					<comments>https://acceldib.github.io/my_test/2023/02/21/test/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 21 Feb 2023 10:00:43 +0000</pubDate>
+				<category><![CDATA[Microprocessor]]></category>
+		<guid isPermaLink="false">https://acceldib.github.io/my_test/?p=1645</guid>
+
+					<description><![CDATA[<p>This is my test page</p>
+<p>The post <a rel="nofollow" href="https://acceldib.github.io/my_test/2023/02/21/test/">Test</a> appeared first on <a rel="nofollow" href="https://acceldib.github.io/my_test">Tahtit</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1645" class="elementor elementor-1645">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-58b486b8 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="58b486b8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-71587061" data-id="71587061" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a88ae3e elementor-widget elementor-widget-text-editor" data-id="a88ae3e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.2 - 22-02-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<!-- wp:paragraph -->
+<p>This is my test page</p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-82b463b elementor-widget elementor-widget-video" data-id="82b463b" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=YC4CgaBdTCg&amp;t=683s&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.2 - 22-02-2023 */
+.elementor-widget-video .elementor-widget-container{overflow:hidden;transform:translateZ(0)}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{height:100%;width:100%;border:none;background-color:#000}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}.e-con-inner>.elementor-widget-video,.e-con>.elementor-widget-video{width:var(--container-widget-width);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		<p>The post <a rel="nofollow" href="https://acceldib.github.io/my_test/2023/02/21/test/">Test</a> appeared first on <a rel="nofollow" href="https://acceldib.github.io/my_test">Tahtit</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://acceldib.github.io/my_test/2023/02/21/test/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

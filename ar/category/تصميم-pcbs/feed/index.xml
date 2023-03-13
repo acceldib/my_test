@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>تصميم PCBs Archives - Tahtit</title>
+	<atom:link href="https://acceldib.github.io/my_test/ar/category/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-pcbs/feed/" rel="self" type="application/rss+xml" />
+	<link>https://acceldib.github.io/my_test/ar/category/تصميم-pcbs/</link>
+	<description>Building a smarter future, together</description>
+	<lastBuildDate>Fri, 24 Feb 2023 18:04:56 +0000</lastBuildDate>
+	<language>ar</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://acceldib.github.io/my_test/wp-content/uploads/2023/02/1-150x150.png</url>
+	<title>تصميم PCBs Archives - Tahtit</title>
+	<link>https://acceldib.github.io/my_test/ar/category/تصميم-pcbs/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>دورة تجربية 2</title>
+		<link>https://acceldib.github.io/my_test/ar/2023/02/24/%d8%af%d9%88%d8%b1%d8%a9-%d8%aa%d8%ac%d8%b1%d8%a8%d9%8a%d8%a9-2/</link>
+					<comments>https://acceldib.github.io/my_test/ar/2023/02/24/%d8%af%d9%88%d8%b1%d8%a9-%d8%aa%d8%ac%d8%b1%d8%a8%d9%8a%d8%a9-2/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 24 Feb 2023 18:01:08 +0000</pubDate>
+				<category><![CDATA[تصميم PCBs]]></category>
+		<category><![CDATA[دورة الميكروبروسيسور]]></category>
+		<category><![CDATA[دورة تصميم الموقع]]></category>
+		<category><![CDATA[عام]]></category>
+		<guid isPermaLink="false">https://acceldib.github.io/my_test/?p=2063</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://acceldib.github.io/my_test/ar/2023/02/24/%d8%af%d9%88%d8%b1%d8%a9-%d8%aa%d8%ac%d8%b1%d8%a8%d9%8a%d8%a9-2/">دورة تجربية 2</a> appeared first on <a rel="nofollow" href="https://acceldib.github.io/my_test/ar/">Tahtit</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="الفصل الثالث- الجزء الأول، لماذا مايكرو 8051 والتكوين الداخلي لها و شرح منافذ PDIP" width="960" height="540" src="https://www.youtube.com/embed/ceGa8eYhGXk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+<p>The post <a rel="nofollow" href="https://acceldib.github.io/my_test/ar/2023/02/24/%d8%af%d9%88%d8%b1%d8%a9-%d8%aa%d8%ac%d8%b1%d8%a8%d9%8a%d8%a9-2/">دورة تجربية 2</a> appeared first on <a rel="nofollow" href="https://acceldib.github.io/my_test/ar/">Tahtit</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://acceldib.github.io/my_test/ar/2023/02/24/%d8%af%d9%88%d8%b1%d8%a9-%d8%aa%d8%ac%d8%b1%d8%a8%d9%8a%d8%a9-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>دورة تجريبية</title>
+		<link>https://acceldib.github.io/my_test/ar/2023/02/24/%d8%af%d9%88%d8%b1%d8%a9-%d8%aa%d8%ac%d8%b1%d9%8a%d8%a8%d9%8a%d8%a9/</link>
+					<comments>https://acceldib.github.io/my_test/ar/2023/02/24/%d8%af%d9%88%d8%b1%d8%a9-%d8%aa%d8%ac%d8%b1%d9%8a%d8%a8%d9%8a%d8%a9/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 24 Feb 2023 18:00:02 +0000</pubDate>
+				<category><![CDATA[تصميم PCBs]]></category>
+		<category><![CDATA[دورة الميكروبروسيسور]]></category>
+		<category><![CDATA[دورة تصميم الموقع]]></category>
+		<category><![CDATA[عام]]></category>
+		<guid isPermaLink="false">https://acceldib.github.io/my_test/?p=2061</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://acceldib.github.io/my_test/ar/2023/02/24/%d8%af%d9%88%d8%b1%d8%a9-%d8%aa%d8%ac%d8%b1%d9%8a%d8%a8%d9%8a%d8%a9/">دورة تجريبية</a> appeared first on <a rel="nofollow" href="https://acceldib.github.io/my_test/ar/">Tahtit</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="الفصل الثالث- الجزء الأول، لماذا مايكرو 8051 والتكوين الداخلي لها و شرح منافذ PDIP" width="960" height="540" src="https://www.youtube.com/embed/ceGa8eYhGXk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+<p>The post <a rel="nofollow" href="https://acceldib.github.io/my_test/ar/2023/02/24/%d8%af%d9%88%d8%b1%d8%a9-%d8%aa%d8%ac%d8%b1%d9%8a%d8%a8%d9%8a%d8%a9/">دورة تجريبية</a> appeared first on <a rel="nofollow" href="https://acceldib.github.io/my_test/ar/">Tahtit</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://acceldib.github.io/my_test/ar/2023/02/24/%d8%af%d9%88%d8%b1%d8%a9-%d8%aa%d8%ac%d8%b1%d9%8a%d8%a8%d9%8a%d8%a9/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
